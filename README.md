@@ -1,4 +1,4 @@
-# Invoice Manager
+# htmx-chat 
 
 Simple realtime chat using Kotlin-Ktor and HTMX.
 
